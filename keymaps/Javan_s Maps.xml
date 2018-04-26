@@ -1,4 +1,4 @@
-<keymap version="1" name="Javan's Keymaps" parent="$default">
+<keymap version="1" name="Javan's Maps" parent="$default">
   <action id="ActivateCommandLineToolsConsoleToolWindow">
     <keyboard-shortcut first-keystroke="ctrl back_quote" />
   </action>
