@@ -381,7 +381,7 @@
     </option>
     <option name="CONSOLE_NORMAL_OUTPUT">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
       </value>
     </option>
     <option name="CONSOLE_OUTPUT">
@@ -705,7 +705,7 @@
     </option>
     <option name="DEPRECATED_ATTRIBUTES">
       <value>
-        <option name="EFFECT_COLOR" value="c3cee3" />
+        <option name="EFFECT_COLOR" value="fefefe" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -1455,7 +1455,7 @@
     </option>
     <option name="MARKDOWN.TEXT">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
       </value>
     </option>
     <option name="MARKDOWN_AUTO_LINK">
@@ -1624,7 +1624,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.ABBREVIATION_EXPANDED_TEXT">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.ABBREVIATION_SHORT_TEXT">
@@ -1686,7 +1686,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.DEFINITION_TERM">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.EMOJI_ID">
@@ -1966,8 +1966,8 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.STRIKETHROUGH">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
-        <option name="EFFECT_COLOR" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
+        <option name="EFFECT_COLOR" value="fefefe" />
         <option name="EFFECT_TYPE" value="3" />
       </value>
     </option>
@@ -1979,8 +1979,8 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.SUBSCRIPT">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
-        <option name="EFFECT_COLOR" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
+        <option name="EFFECT_COLOR" value="fefefe" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -2004,7 +2004,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CAPTION">
@@ -2019,24 +2019,24 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CEVEN">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
         <option name="BACKGROUND" value="32424a" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_REVEN_CODD">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
         <option name="BACKGROUND" value="32424a" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CEVEN">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_CELL_RODD_CODD">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_HDR_CELL_REVEN_CEVEN">
@@ -2063,12 +2063,12 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_ROW_EVEN">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_ROW_ODD">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TABLE_SEPARATOR">
@@ -2098,7 +2098,7 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.TEXT">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
       </value>
     </option>
     <option name="MARKDOWN_NAVIGATOR.TOC">
@@ -2114,8 +2114,8 @@
     </option>
     <option name="MARKDOWN_NAVIGATOR.UNDERLINE">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
-        <option name="EFFECT_COLOR" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
+        <option name="EFFECT_COLOR" value="fefefe" />
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
@@ -2930,7 +2930,7 @@
     </option>
     <option name="RUBY_HEREDOC_CONTENT">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
         <option name="BACKGROUND" value="24292a" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -3638,7 +3638,7 @@
     </option>
     <option name="XML_PROLOGUE">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
         <option name="BACKGROUND" value="24292a" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
@@ -3650,7 +3650,7 @@
     </option>
     <option name="XML_TAG_DATA">
       <value>
-        <option name="FOREGROUND" value="c3cee3" />
+        <option name="FOREGROUND" value="fefefe" />
         <option name="BACKGROUND" value="24292a" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
