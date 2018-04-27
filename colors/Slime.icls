@@ -17,11 +17,11 @@
     <option name="ANNOTATIONS_COLOR" value="fffbf7" />
     <option name="CARET_COLOR" value="8aee92" />
     <option name="CARET_ROW_COLOR" value="283030" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="24292a" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="282829" />
     <option name="DELETED_LINES_COLOR" value="f07178" />
     <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
     <option name="DIFF_SEPARATORS_TOP_BORDER" value="1b262b" />
-    <option name="DOCUMENTATION_COLOR" value="24292a" />
+    <option name="DOCUMENTATION_COLOR" value="282829" />
     <option name="FILESTATUS_ADDED" value="c3e88d" />
     <option name="FILESTATUS_COPIED" value="c3e88d" />
     <option name="FILESTATUS_DELETED" value="808080" />
@@ -41,7 +41,7 @@
     <option name="FILESTATUS_modifiedOutside" value="82aaff" />
     <option name="GUTTER_BACKGROUND" value="282d2e" />
     <option name="INDENT_GUIDE" value="293030" />
-    <option name="INFORMATION_HINT" value="24292a" />
+    <option name="INFORMATION_HINT" value="282829" />
     <option name="LINE_NUMBERS_COLOR" value="6a6f70" />
     <option name="METHOD_SEPARATORS_COLOR" value="2e3c43" />
     <option name="MODIFIED_LINES_COLOR" value="ffcb6b" />
@@ -49,7 +49,7 @@
     <option name="MT_SUPPRESSED" value="eeffff" />
     <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
     <option name="NOT_CHANGED" value="607d8b" />
-    <option name="QUESTION_HINT" value="24292a" />
+    <option name="QUESTION_HINT" value="282829" />
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
@@ -179,7 +179,7 @@
     <option name="BREADCRUMBS_DEFAULT">
       <value>
         <option name="FOREGROUND" value="607d8b" />
-        <option name="BACKGROUND" value="24292a" />
+        <option name="BACKGROUND" value="282829" />
       </value>
     </option>
     <option name="BREADCRUMBS_HOVERED">
@@ -191,7 +191,7 @@
     <option name="BREADCRUMBS_INACTIVE">
       <value>
         <option name="FOREGROUND" value="425b67" />
-        <option name="BACKGROUND" value="24292a" />
+        <option name="BACKGROUND" value="282829" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -2931,7 +2931,7 @@
     <option name="RUBY_HEREDOC_CONTENT">
       <value>
         <option name="FOREGROUND" value="fefefe" />
-        <option name="BACKGROUND" value="24292a" />
+        <option name="BACKGROUND" value="282829" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3512,7 +3512,7 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="fefefe" />
-        <option name="BACKGROUND" value="24292a" />
+        <option name="BACKGROUND" value="282829" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3633,7 +3633,7 @@
     <option name="XML_PROLOGUE">
       <value>
         <option name="FOREGROUND" value="fefefe" />
-        <option name="BACKGROUND" value="24292a" />
+        <option name="BACKGROUND" value="282829" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -3645,7 +3645,7 @@
     <option name="XML_TAG_DATA">
       <value>
         <option name="FOREGROUND" value="fefefe" />
-        <option name="BACKGROUND" value="24292a" />
+        <option name="BACKGROUND" value="282829" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
