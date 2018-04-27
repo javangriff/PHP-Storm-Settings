@@ -1,7 +1,16 @@
 <keymap version="1" name="Javan's Maps" parent="$default">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
+  <action id="$SelectAll">
+    <keyboard-shortcut first-keystroke="meta a" />
   </action>
   <action id="$Undo">
     <keyboard-shortcut first-keystroke="alt back_space" />
@@ -20,9 +29,21 @@
   <action id="CloseContent">
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
+  <action id="CopyPaths">
+    <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
   <action id="DuplicatesForm.SendToLeft" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
+  </action>
+  <action id="Editor SelectAll">
+    <keyboard-shortcut first-keystroke="meta a" />
   </action>
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
@@ -33,6 +54,9 @@
   <action id="EditorIndentSelection">
     <keyboard-shortcut first-keystroke="tab" />
     <keyboard-shortcut first-keystroke="meta close_bracket" />
+  </action>
+  <action id="EditorPasteSimple">
+    <keyboard-shortcut first-keystroke="shift meta alt v" />
   </action>
   <action id="EditorSelectWord" />
   <action id="EditorUnindentSelection">
@@ -55,6 +79,9 @@
     <keyboard-shortcut first-keystroke="meta n" />
   </action>
   <action id="ParameterInfo" />
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift meta v" />
+  </action>
   <action id="QuickChangeScheme" />
   <action id="Replace">
     <keyboard-shortcut first-keystroke="meta r" />
