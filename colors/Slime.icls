@@ -4,7 +4,7 @@
     <property name="created">2018-04-27T08:48:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.2.0.0</property>
-    <property name="modified">2018-04-27T09:40:46</property>
+    <property name="modified">2018-04-27T09:53:34</property>
     <property name="originalScheme">Material Slime</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -51,7 +51,7 @@
     <option name="NOT_CHANGED" value="607d8b" />
     <option name="QUESTION_HINT" value="24292a" />
     <option name="RIGHT_MARGIN_COLOR" value="2e3c43" />
-    <option name="SELECTED_INDENT_GUIDE" value="80cbc4" />
+    <option name="SELECTED_INDENT_GUIDE" value="" />
     <option name="SELECTED_TEARLINE_COLOR" value="99b89d" />
     <option name="SELECTION_BACKGROUND" value="314549" />
     <option name="SELECTION_FOREGROUND" value="fffbf7" />
