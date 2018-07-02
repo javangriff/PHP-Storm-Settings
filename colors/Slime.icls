@@ -4,7 +4,7 @@
     <property name="created">2018-04-27T08:48:22</property>
     <property name="ide">PhpStorm</property>
     <property name="ideVersion">2018.1.2.0.0</property>
-    <property name="modified">2018-04-27T11:28:27</property>
+    <property name="modified">2018-07-02T16:33:00</property>
     <property name="originalScheme">Material Slime</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -410,6 +410,11 @@
     <option name="CONSOLE_YELLOW_OUTPUT">
       <value>
         <option name="FOREGROUND" value="cdcd00" />
+      </value>
+    </option>
+    <option name="CSS.CLASS_NAME">
+      <value>
+        <option name="FOREGROUND" value="9bbe9b" />
       </value>
     </option>
     <option name="CSS.COLOR">
@@ -3161,15 +3166,42 @@
       </value>
     </option>
     <option name="SASS_COMMENT" baseAttributes="CSS.COMMENT" />
+    <option name="SASS_EXTEND">
+      <value>
+        <option name="FOREGROUND" value="f07178" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SASS_FUNCTION">
+      <value>
+        <option name="FOREGROUND" value="ffd58b" />
+      </value>
+    </option>
+    <option name="SASS_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="f07178" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="SASS_MIXIN">
       <value>
-        <option name="FOREGROUND" value="82aaff" />
+        <option name="FOREGROUND" value="f07178" />
         <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SASS_PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="e9e5ff" />
+      </value>
+    </option>
+    <option name="SASS_TAG_NAME">
+      <value>
+        <option name="FOREGROUND" value="ffd58b" />
       </value>
     </option>
     <option name="SASS_VARIABLE">
       <value>
-        <option name="FOREGROUND" value="f78c6c" />
+        <option name="FOREGROUND" value="c493a0" />
       </value>
     </option>
     <option name="SEARCH_RESULT_ATTRIBUTES">
