@@ -1,0 +1,36 @@
+<templateSet group="user">
+  <template name="txtinput" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label class=&quot;form-label&quot; for=&quot;input-$NAME$&quot;&gt;$LABEL$&lt;/label&gt;&#10;    &lt;input class=&quot;form-input&quot; id=&quot;input-$NAME$&quot; name=&quot;$NAME$&quot; placeholder=&quot;Enter your $PLACEHOLDER$&quot; type=&quot;text&quot;&gt;&#10;&lt;/div&gt;" shortcut="ENTER" description="Form text input" toReformat="true" toShortenFQNames="true">
+    <variable name="LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="lowercaseAndDash(LABEL)" defaultValue="" alwaysStopAt="false" />
+    <variable name="PLACEHOLDER" expression="decapitalize(LABEL)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="emailinput" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label class=&quot;form-label&quot; for=&quot;input-$NAME$&quot;&gt;$LABEL$&lt;/label&gt;&#10;    &lt;input class=&quot;form-input&quot; id=&quot;input-$NAME$&quot; name=&quot;$NAME$&quot; placeholder=&quot;Enter your $PLACEHOLDER$&quot; type=&quot;email&quot;&gt;&#10;&lt;/div&gt;" shortcut="ENTER" description="Form email input" toReformat="true" toShortenFQNames="true">
+    <variable name="LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="lowercaseAndDash(LABEL)" defaultValue="" alwaysStopAt="false" />
+    <variable name="PLACEHOLDER" expression="decapitalize(LABEL)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="passinput" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;label class=&quot;form-label&quot; for=&quot;input-$NAME$&quot;&gt;$LABEL$&lt;/label&gt;&#10;    &lt;input class=&quot;form-input&quot; id=&quot;input-$NAME$&quot; name=&quot;$NAME$&quot; placeholder=&quot;Enter your $PLACEHOLDER$&quot; type=&quot;password&quot;&gt;&#10;&lt;/div&gt;" shortcut="ENTER" description="Form password input" toReformat="true" toShortenFQNames="true">
+    <variable name="LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="NAME" expression="lowercaseAndDash(LABEL)" defaultValue="" alwaysStopAt="false" />
+    <variable name="PLACEHOLDER" expression="decapitalize(LABEL)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+  <template name="btninput" value="&lt;div class=&quot;form-group&quot;&gt;&#10;    &lt;button class=&quot;btn btn-primary&quot; type=&quot;submit&quot;&gt;$TEXT$&lt;/button&gt;&#10;&lt;/div&gt;" shortcut="ENTER" description="Form button" toReformat="true" toShortenFQNames="true">
+    <variable name="TEXT" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
+</templateSet>
