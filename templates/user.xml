@@ -33,4 +33,10 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="craftlogin" value="{% if errorMessage is defined %}&#10;    &lt;p class=&quot;alert-danger&quot;&gt;{{ errorMessage }}&lt;/p&gt;&#10;{% endif %}&#10;&#10;&lt;form method=&quot;POST&quot; accept-charset=&quot;UTF-8&quot;&gt;&#10;    {{ csrfInput() }}&#10;    {{ redirectInput('/') }}&#10;    &lt;input type=&quot;hidden&quot; name=&quot;action&quot; value=&quot;users/login&quot;&gt;&#10;&#10;    &lt;div class=&quot;form-group&quot;&gt;&#10;        &lt;label class=&quot;form-label&quot; for=&quot;input-email&quot;&gt;Email&lt;/label&gt;&#10;        &lt;input class=&quot;form-input&quot; id=&quot;input-email&quot; name=&quot;loginName&quot; placeholder=&quot;Enter your email&quot; type=&quot;email&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;    &lt;div class=&quot;form-group&quot;&gt;&#10;        &lt;label class=&quot;form-label&quot; for=&quot;input-password&quot;&gt;Password&lt;/label&gt;&#10;        &lt;input class=&quot;form-input&quot; id=&quot;input-password&quot; name=&quot;password&quot; placeholder=&quot;Enter your password&quot; type=&quot;password&quot;&gt;&#10;    &lt;/div&gt;&#10;&#10;    &lt;div class=&quot;form-group&quot;&gt;&#10;        &lt;div class=&quot;form-checkbox&quot;&gt;&#10;            &lt;input id=&quot;rememberMe&quot; type=&quot;checkbox&quot;&gt;&#10;            &lt;label class=&quot;form-check-label&quot; for=&quot;rememberMe&quot;&gt;Remember me&lt;/label&gt;&#10;        &lt;/div&gt;&#10;    &lt;/div&gt;&#10;&#10;    &lt;div class=&quot;form-group&quot;&gt;&#10;        &lt;button class=&quot;btn btn-primary&quot; type=&quot;submit&quot;&gt;Login&lt;/button&gt;&#10;    &lt;/div&gt;&#10;&lt;/form&gt;&#10;&#10;&lt;p&gt;&lt;a href=&quot;{{ url('forgotpassword') }}&quot;&gt;Forget your password?&lt;/a&gt;&lt;/p&gt;" description="Craft Login Form" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="HTML" value="true" />
+      <option name="Twig" value="true" />
+    </context>
+  </template>
 </templateSet>
