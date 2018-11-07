@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project Scope" />
-    <option name="defaultScopeName" value="Project Scope" />
+    <option name="customScope" value="Craft Development" />
+    <option name="defaultScopeName" value="Craft Development" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Project Scope" />
+    <option name="SEARCH_SCOPE" value="Craft Development" />
     <option name="FILE_MASK" value="*.html" />
     <recentFileMasks>
       <mask>*.properties</mask>
