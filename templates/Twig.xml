@@ -5,4 +5,8 @@
       <option name="Twig" value="true" />
     </context>
   </template>
+  <template name="ext" value="{% extends '$TEMPLATE$' %}&#10;" description="extends &quot;template&quot;" toReformat="true" toShortenFQNames="false">
+    <variable name="TEMPLATE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
 </templateSet>
