@@ -4,6 +4,7 @@
       <mapping pattern="_product_fresh" type="HTML" />
       <removed_mapping ext="html" type="HTML" />
       <mapping pattern="components" type="PLAIN_TEXT" />
+      <mapping pattern="_newsletter-signup" type="SCSS" />
       <mapping ext="html" type="Twig" />
     </extensionMap>
   </component>
