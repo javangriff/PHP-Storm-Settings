@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="_product_fresh" type="HTML" />
       <removed_mapping ext="html" type="HTML" />
+      <mapping pattern="lottie" type="PLAIN_TEXT" />
       <mapping pattern="components" type="PLAIN_TEXT" />
       <mapping pattern="connect-your-property" type="PLAIN_TEXT" />
       <mapping pattern="subscription" type="PLAIN_TEXT" />
