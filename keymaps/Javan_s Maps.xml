@@ -131,6 +131,9 @@
     <keyboard-shortcut first-keystroke="shift alt j" />
     <keyboard-shortcut first-keystroke="shift meta up" />
   </action>
+  <action id="ViewNavigationBar">
+    <keyboard-shortcut first-keystroke="meta 2" />
+  </action>
   <action id="ViewSource" />
   <action id="com.jetbrains.php.framework.FrameworkRunConsoleAction" />
 </keymap>
