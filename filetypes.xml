@@ -2,13 +2,16 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="_product_fresh" type="HTML" />
-      <mapping pattern="lottie" type="PLAIN_TEXT" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <mapping pattern="connect-your-property" type="PLAIN_TEXT" />
       <mapping pattern="components" type="PLAIN_TEXT" />
+      <mapping pattern="lottie" type="PLAIN_TEXT" />
+      <mapping pattern="subscription" type="PLAIN_TEXT" />
       <mapping pattern="craft" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="subscription" type="PLAIN_TEXT" />
-      <mapping pattern="connect-your-property" type="PLAIN_TEXT" />
       <mapping pattern="_newsletter-signup" type="SCSS" />
+      <mapping ext="html" type="Twig" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
     </extensionMap>
   </component>
 </application>
