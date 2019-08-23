@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="eoi-application" type="HTML" />
       <mapping pattern="_product_fresh" type="HTML" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="lottie" type="PLAIN_TEXT" />
