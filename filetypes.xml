@@ -1,19 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="eoi-application" type="HTML" />
-      <mapping pattern="_product_fresh" type="HTML" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <removed_mapping ext="html" approved="true" type="HTML" />
-      <mapping pattern="lottie" type="PLAIN_TEXT" />
-      <mapping pattern="craft" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="field" type="PLAIN_TEXT" />
-      <mapping pattern="components" type="PLAIN_TEXT" />
-      <mapping pattern="subscription" type="PLAIN_TEXT" />
-      <mapping pattern="connect-your-property" type="PLAIN_TEXT" />
-      <mapping ext="mjml" type="PLAIN_TEXT" />
-      <mapping ext="command" type="PLAIN_TEXT" />
-      <mapping pattern="_newsletter-signup" type="SCSS" />
       <mapping ext="html" type="Twig" />
       <removed_mapping ext="html" approved="true" type="HTML" />
     </extensionMap>
