@@ -76,10 +76,6 @@
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
   <action id="FileChooser.TogglePathShowing" />
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="alt f3" />
-    <keyboard-shortcut first-keystroke="meta f" />
-  </action>
   <action id="GotoBookmark1" />
   <action id="GotoBookmark2" />
   <action id="GotoChangedFile" />
@@ -109,9 +105,6 @@
     <keyboard-shortcut first-keystroke="shift ctrl v" />
   </action>
   <action id="QuickChangeScheme" />
-  <action id="Replace">
-    <keyboard-shortcut first-keystroke="meta r" />
-  </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
