@@ -21,9 +21,9 @@
     <mask>*.vue, *.html, *.js</mask>
     <mask>*.js, *.vue</mask>
     <mask>*.html, *.vue</mask>
-    <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.vue</mask>
+    <mask>*.scss</mask>
     <mask>*.vue, *.html</mask>
   </component>
 </application>
