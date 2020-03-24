@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="image-section" type="HTML" />
       <removed_mapping ext="html" approved="true" type="HTML" />
+      <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="html" type="Twig" />
       <removed_mapping ext="html" approved="true" type="HTML" />
     </extensionMap>
