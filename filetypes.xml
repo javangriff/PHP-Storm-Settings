@@ -5,6 +5,7 @@
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="LabelField" type="PLAIN_TEXT" />
       <mapping pattern="craft" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="html" type="Twig" />
