@@ -4,6 +4,7 @@
       <mapping pattern="image-section" type="HTML" />
       <removed_mapping ext="html" approved="true" type="HTML" />
       <mapping pattern="LabelField" type="PLAIN_TEXT" />
+      <mapping pattern="uploads" type="PLAIN_TEXT" />
       <mapping pattern="page-header" type="PLAIN_TEXT" />
       <mapping pattern="section-field" type="PLAIN_TEXT" />
       <mapping pattern="video" type="PLAIN_TEXT" />
