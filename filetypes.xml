@@ -1,22 +1,24 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="image-section" type="HTML" />
-      <mapping pattern="image" type="PLAIN_TEXT" />
+      <removed_mapping ext="html" approved="true" type="HTML" />
+      <mapping pattern="LabelField" type="PLAIN_TEXT" />
+      <mapping pattern="uploads" type="PLAIN_TEXT" />
       <mapping pattern="page-header" type="PLAIN_TEXT" />
-      <mapping pattern="craft" type="PLAIN_TEXT" />
       <mapping pattern="section-field" type="PLAIN_TEXT" />
       <mapping pattern="video" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern="uploads" type="PLAIN_TEXT" />
-      <mapping pattern="sections" type="PLAIN_TEXT" />
       <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
-      <mapping pattern="LabelField" type="PLAIN_TEXT" />
+      <mapping pattern="craft" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="sections" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
+      <mapping pattern="image" type="PLAIN_TEXT" />
+      <mapping ext="csr" type="PLAIN_TEXT" />
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
-      <mapping ext="csr" type="PLAIN_TEXT" />
-      <mapping ext="liquid" type="Twig" />
       <mapping ext="html" type="Twig" />
+      <mapping ext="liquid" type="Twig" />
       <removed_mapping ext="html" approved="true" type="HTML" />
     </extensionMap>
   </component>
