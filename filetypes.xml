@@ -15,9 +15,9 @@
       <mapping ext="data" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
       <mapping ext="csr" type="PLAIN_TEXT" />
-      <mapping ext="liquid" type="Twig" />
       <mapping ext="html" type="Twig" />
       <removed_mapping ext="html" approved="true" type="HTML" />
+      <removed_mapping ext="liquid" approved="true" type="Twig" />
     </extensionMap>
   </component>
 </application>
