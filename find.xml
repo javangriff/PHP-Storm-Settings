@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.css" />
+    <option name="FILE_MASK" value="*.php" />
     <mask>*.xml</mask>
     <mask>*.inc</mask>
     <mask>*.hphp</mask>
@@ -20,7 +18,6 @@
     <mask>*.vue, *.html</mask>
     <mask>*.vue</mask>
     <mask>*.js, *.vue</mask>
-    <mask>*.php</mask>
     <mask>*.html, *.vue</mask>
     <mask>*.liquid</mask>
     <mask>*.twig</mask>
@@ -28,5 +25,6 @@
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.css</mask>
+    <mask>*.php</mask>
   </component>
 </application>
