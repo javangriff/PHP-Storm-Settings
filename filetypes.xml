@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="18">
     <extensionMap>
+      <mapping pattern="fastcgi_params" type="AUTO_DETECTED" />
       <mapping pattern="image-section" type="HTML" />
       <mapping pattern="image" type="PLAIN_TEXT" />
       <mapping pattern="page-header" type="PLAIN_TEXT" />
