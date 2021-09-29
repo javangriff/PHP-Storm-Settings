@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping pattern="fastcgi_params" type="AUTO_DETECTED" />
       <mapping pattern="image-section" type="HTML" />
+      <mapping ext="graphqlconfig" type="JSON" />
       <mapping pattern="craft" type="PLAIN_TEXT" />
       <mapping pattern="video" type="PLAIN_TEXT" />
       <mapping pattern="LabelField" type="PLAIN_TEXT" />
