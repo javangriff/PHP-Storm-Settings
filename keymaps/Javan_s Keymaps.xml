@@ -1,4 +1,11 @@
 <keymap version="1" name="Javan's Keymaps" parent="Visual Studio">
+  <action id="$Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="$Paste">
+    <keyboard-shortcut first-keystroke="ctrl v" />
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
     <keyboard-shortcut first-keystroke="shift ctrl z" />
@@ -18,6 +25,12 @@
   <action id="DirDiffMenu.SynchronizeDiff.All" />
   <action id="Docker.RemoteServers.StartComposeService" />
   <action id="Docker.RemoteServers.StartContainer" />
+  <action id="Editor Copy">
+    <keyboard-shortcut first-keystroke="meta c" />
+  </action>
+  <action id="Editor Paste">
+    <keyboard-shortcut first-keystroke="meta v" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="shift meta z" />
   </action>
@@ -54,6 +67,9 @@
   </action>
   <action id="MoveLineUp">
     <keyboard-shortcut first-keystroke="shift ctrl up" />
+  </action>
+  <action id="PasteMultiple">
+    <keyboard-shortcut first-keystroke="shift meta v" />
   </action>
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl t" />
