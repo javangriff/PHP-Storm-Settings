@@ -1,4 +1,8 @@
 <keymap version="1" name="Javan's Maps" parent="Mac OS X">
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="meta back_quote" />
+  </action>
   <action id="Arrangement.Alias.Rule.Add">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
@@ -39,6 +43,7 @@
   <action id="NewElement">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="NextWindow" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="shift meta p" />
   </action>
